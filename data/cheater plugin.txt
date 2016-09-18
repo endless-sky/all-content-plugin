@@ -23,6 +23,8 @@ start
 	set "license: Carrier"
 	set "license: Wanderer"
 	set "license: Wanderer Military"
+	set "license: Militia Carrier"
+	set "license: Unfettered Militia"
 
 
 
