@@ -23,8 +23,12 @@ start
 	set "license: Carrier"
 	set "license: Wanderer"
 	set "license: Wanderer Military"
+	set "license: Wanderer Outfits"
 	set "license: Militia Carrier"
 	set "license: Unfettered Militia"
+	set "license: Coalition"
+	set "license: Heliarch"
+	set "license: Remnant"
 
 
 
