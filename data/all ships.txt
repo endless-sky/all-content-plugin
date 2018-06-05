@@ -147,3 +147,17 @@ shipyard "All Ships"
 	"Wasp"
 	"Water Bug"
 	"Winter Gale"
+
+
+
+ship "Nanobot"
+	add attributes
+		category "Interceptor"
+
+ship "Timer Ship"
+	add attributes
+		category "Interceptor"
+
+ship "Hallucination"
+	add attributes
+		category "Interceptor"
