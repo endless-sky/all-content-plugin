@@ -150,6 +150,8 @@ shipyard "All Ships"
 
 
 
+# Adding a valid category to uncategorized ships to make them appear in shipyards.
+
 ship "Nanobot"
 	add attributes
 		category "Interceptor"
