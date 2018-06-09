@@ -175,3 +175,19 @@ shipyard "All Ships"
 	"Wasp"
 	"Water Bug"
 	"Winter Gale"
+
+
+
+# Adding a valid category to uncategorized ships to make them appear in shipyards.
+
+ship "Nanobot"
+	add attributes
+		category "Interceptor"
+
+ship "Timer Ship"
+	add attributes
+		category "Interceptor"
+
+ship "Hallucination"
+	add attributes
+		category "Interceptor"
