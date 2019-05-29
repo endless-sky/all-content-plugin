@@ -21,6 +21,7 @@ start
 	set "license: Navy"
 	set "license: Cruiser"
 	set "license: Carrier"
+	set "license: City-Ship"
 	set "license: Wanderer"
 	set "license: Wanderer Military"
 	set "license: Wanderer Outfits"
@@ -29,6 +30,7 @@ start
 	set "license: Coalition"
 	set "license: Heliarch"
 	set "license: Remnant"
+	set "license: Remnant Capital"
 	set "Intro [0]: offered"
 
 
