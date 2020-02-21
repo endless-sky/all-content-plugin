@@ -11,6 +11,17 @@
 
 
 outfitter "All Outfits"
+	`"Baellie" Atomic Engines`
+	`"Basrem" Atomic Steering`
+	`"Basrem" Atomic Thruster`
+	`"Benga" Atomic Steering`
+	`"Benga" Atomic Thruster`
+	`"Biroo" Atomic Steering`
+	`"Biroo" Atomic Thruster`
+	`"Bondir" Atomic Steering`
+	`"Bondir" Atomic Thruster`
+	`"Bufaer" Atomic Steering`
+	`"Bufaer" Atomic Thruster`
 	"A120 Atomic Thruster"
 	"A125 Atomic Steering"
 	"A250 Atomic Thruster"
@@ -27,28 +38,18 @@ outfitter "All Outfits"
 	"Aluminum"
 	"Anti-Missile Turret"
 	"Antimatter Core"
+	"Anvil-Class Engine"
 	"Armageddon Core"
 	"Asteroid Scanner"
-	`"Baellie" Atomic Engines`
-	`"Basrem" Atomic Steering`
-	`"Basrem" Atomic Thruster`
 	"Beam Laser"
-	`"Benga" Atomic Steering`
-	`"Benga" Atomic Thruster`
-	`"Biroo" Atomic Steering`
-	`"Biroo" Atomic Thruster`
 	"Blaster Turret"
 	"Blue Sun Reactor"
 	"Bombardment Cannon"
 	"Bombardment Turret"
-	`"Bondir" Atomic Steering`
-	`"Bondir" Atomic Thruster`
 	"Boulder Reactor"
 	"Breeder Reactor"
 	"Brig"
 	"Bright Cloud Shielding"
-	`"Bufaer" Atomic Steering`
-	`"Bufaer" Atomic Thruster`
 	"Bullet Boxes"
 	"Bullfrog Anti-Missile"
 	"Bunk Room"
@@ -87,6 +88,8 @@ outfitter "All Outfits"
 	"Electron Turret"
 	"Emergency Ramscoop"
 	"Energy Blaster"
+	"Enforcer Confrontation Gear"
+	"Enforcer Riot Staff"
 	"Epoch Cell"
 	"Finisher Pod"
 	"Finisher Torpedo"
@@ -143,6 +146,14 @@ outfitter "All Outfits"
 	"Jump Drive (Broken)"
 	"KP-6 Photovoltaic Array"
 	"KP-6 Photovoltaic Panel"
+	"Ka'het Annihilator"
+	"Ka'het Annihilator Turret"
+	"Ka'het EMP Deployer"
+	"Ka'het Primary Cooling"
+	"Ka'het Ravager Beam"
+	"Ka'het Ravager Turret"
+	"Ka'het Shield Restorer"
+	"Ka'het Support Cooling"
 	"Korath Banisher"
 	"Korath Detainer"
 	"Korath Disruptor"
@@ -203,6 +214,8 @@ outfitter "All Outfits"
 	"Orca Plasma Thruster"
 	"Outfit Scanner"
 	"Outfits Expansion"
+	"Overcharged Shield Module"
+	"Overclocked Repair Module"
 	"Particle Cannon"
 	"Pebble Core"
 	"Pilot's License"
@@ -222,6 +235,7 @@ outfitter "All Outfits"
 	"Pug Gridfire Turret"
 	"Pug Lohmar Steering"
 	"Pug Lohmar Thruster"
+	"Pug Peacekeeping Staff"
 	"Pug Seeker"
 	"Pug Zapper"
 	"Pug Zapper Turret"
@@ -315,6 +329,7 @@ outfitter "All Outfits"
 	"Tyrant Plasma Steering"
 	"Tyrant Plasma Thruster"
 	"Uranium"
+	"Void Rifle"
 	"Wanderer Anti-Missile"
 	"Wanderer Heat Sink"
 	"Wanderer Ramscoop"

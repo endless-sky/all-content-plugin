@@ -19,6 +19,7 @@ start
 		score 200
 	set "license: Pilot's"
 	set "license: Navy"
+	set "license: Militia"
 	set "license: Cruiser"
 	set "license: Carrier"
 	set "license: City-Ship"
