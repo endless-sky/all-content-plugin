@@ -25,6 +25,7 @@ outfitter "All Outfits"
 	`"Bondir" Atomic Thruster`
 	`"Bufaer" Atomic Steering`
 	`"Bufaer" Atomic Thruster`
+	`"Puny"`
 	"A120 Atomic Thruster"
 	"A125 Atomic Steering"
 	"A250 Atomic Thruster"
