@@ -62,7 +62,6 @@ conversation "all-content plugin start"
 
 
 mission "All-Content Start"
-	priority
 	landing
 	invisible
 	name `The all-content-plugin's start mission`
