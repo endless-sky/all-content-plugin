@@ -294,6 +294,7 @@ shipyard "All Ships"
 	"vyu-Ir"
 	"Wasp"
 	"Water Bug"
+	"Waverider"
 	"Winter Gale"
 	"_Ion Timer Ship"
 
