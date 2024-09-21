@@ -47,6 +47,7 @@ start "All-Content Plugin"
 	set "license: Wanderer Outfits"
 	# Skip the game's normal intro mission string.
 	set "Intro [0]: offered"
+	set "all-content plugin start"
 
 
 
@@ -65,6 +66,8 @@ mission "All-Content Start"
 	landing
 	invisible
 	name `The all-content-plugin's start mission`
+	to offer
+		has "all-content plugin start"
 	on offer
 		log `Finally "scraped together" enough money for a down payment on a starship. Didn't even have to hurt anyone!`
 		log "Factions" "Republic" `Hundreds of years ago, the independent territories in different parts of human space agreed to join together into a single democratic government, with Earth as its capital. The rise of the Republic ushered in a long period of peace and prosperity in human history.`
