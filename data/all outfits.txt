@@ -11,6 +11,13 @@
 
 
 outfitter "All Outfits"
+	`1-"Uurau" Betavoltaic Cell`
+	`3-"Kaska" Betavoltaic Cell`
+	`6-"Ruuv" Betavoltaic Cell`
+	`OC-"Mavra" Betavoltaic Cell`
+	`"Aqra" Inductive Reverser`
+	`"Aqra" Inductive Steering`
+	`"Aqra" Inductive Thruster`
 	`"Baellie" Atomic Engines`
 	`"Basrem" Atomic Steering`
 	`"Basrem" Atomic Thruster`
@@ -25,8 +32,24 @@ outfitter "All Outfits"
 	`"Bondir" Atomic Thruster`
 	`"Bufaer" Atomic Steering`
 	`"Bufaer" Atomic Thruster`
+	`"Byiaa" Shield Cortex`
+	`"Chyyra" Inductive Reverser`
+	`"Chyyra" Inductive Steering`
+	`"Chyyra" Inductive Thruster`
+	`"Ej" Shield Cortex`
+	`"Jaase" Shield Cortex`
+	`"Jorv" Shield Cortex`
+	`"Niis" Inductive Engines`
+	`"Nnesa" Fusion Core`
 	`"Ojet" Bimodal Coilgun`
+	`"Ryuit" Fusion Core`
 	`"Sjeja" Kinetic Lance`
+	`"Tuur" Scanning Suite`
+	`"Uoret" Fusion Core`
+	`"Veldt" Combat Scanner`
+	`"Veusa" Inductive Reverser`
+	`"Veusa" Inductive Steering`
+	`"Veusa" Inductive Thruster`
 	"A120 Atomic Thruster"
 	"A125 Atomic Steering"
 	"A250 Atomic Thruster"
@@ -61,6 +84,7 @@ outfitter "All Outfits"
 	"Asteroid Scanner"
 	"Astral Mouth"
 	"Astuit Battery"
+	"Auxiliary Power Reserve"
 	"Ballistic Cannon"
 	"Ballistic Cannon Turret"
 	"Banisher Grav-Turret"
@@ -234,6 +258,7 @@ outfitter "All Outfits"
 	"Heliarch License"
 	"Heliarch Repulsor"
 	"Hexagonal Crystal"
+	"High Houses License"
 	"High-Velocity Spike"
 	"High-Velocity Spike Rack"
 	"Husk-Slice"
@@ -280,6 +305,7 @@ outfitter "All Outfits"
 	"Ka'het Shield Restorer"
 	"Ka'het Support Cooling"
 	"Ka'het Sustainer Nacelles"
+	"Kinetic Rail Rifle"
 	"Korath Ark'parat Steering"
 	"Korath Ark'torbal Thruster"
 	"Korath Banisher"
@@ -364,6 +390,10 @@ outfitter "All Outfits"
 	"Moonbeam Turret"
 	"Mouthparts?"
 	"Mug"
+	"Multimodal Armor: Heavy"
+	"Multimodal Armor: Keystone"
+	"Multimodal Armor: Regen"
+	"Multimodal Armor: Resilient"
 	"Nami Rift Steering"
 	"Nami Rift Thruster"
 	"Nanite Enhancer"
@@ -409,6 +439,7 @@ outfitter "All Outfits"
 	"Plasma Turret"
 	"Platinum"
 	"Point Defense Turret"
+	"Primary Power Reserve"
 	"Proton Gun"
 	"Proton Turret"
 	"Prototype Fusion Cannon"
@@ -486,6 +517,7 @@ outfitter "All Outfits"
 	"Shard Fabricator"
 	"Sheragi Anti-Missile"
 	"Shield Beetle Pendant"
+	"Shield Cortex Interface"
 	"Shield Disruptor Turret"
 	"Shield Refactor Module"
 	"Shield Relay Booster"
@@ -527,6 +559,9 @@ outfitter "All Outfits"
 	"Steering (Stellar Class)"
 	"Subarashii Rift Steering"
 	"Subarashii Rift Thruster"
+	"Successor Cooling"
+	"Successor Fuel Sail"
+	"Successor License"
 	"Successor Pulse Laser"
 	"Suicide Gun"
 	"Sunbeam"
