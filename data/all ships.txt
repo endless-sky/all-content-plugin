@@ -405,3 +405,7 @@ ship "_Ion Timer Ship"
 ship "Hallucination"
 	add attributes
 		category "Interceptor"
+
+ship "Cloak Check"
+	add attributes
+		category "Game Mechanics"
