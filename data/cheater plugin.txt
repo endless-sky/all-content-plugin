@@ -55,9 +55,9 @@ start "All-Content Plugin"
 	# Skip the game's normal intro mission string.
 	set "Intro [0]: offered"
 	set "all-content plugin start"
-
-
-
+	
+	
+#Gives a tiny boost to pirate reputation so you can purchase from Greenrock and not soft-lock yourself if you exit the ship purchase screen
 conversation "all-content plugin start"
 	scene "scene/lobby"
 	`The bank's architecture is what you would have called "futuristic" back when you dreamed that the future would be less squalid than the present: story above story of curves and spires and balconies, all in gleaming metal. A doorman stands by each of the heavy glass doors. You are wearing your very best clothes, but you feel shabby next to them.`
@@ -66,6 +66,10 @@ conversation "all-content plugin start"
 	name
 	`	You give him a few hundred thousand credits extra and tell him to make you some fake ship licenses too, while he's at it. Then you sit back and try to relax as he surgically rearranges your face.`
 	`	It takes a few weeks or so for you to heal enough to venture out in public, but by then the furor over the robbery has begun to die down. And thanks to your extensive black market connections, every ship and outfit in the galaxy is available to you here, including some that have not even been invented yet...`
+	action
+		"reputation: Pirate" >?= 1
+		event "You Cheater"
+			
 
 
 
@@ -83,10 +87,12 @@ mission "All-Content Start"
 			`The Syndicate is a central part of the Republic's economy, but they are also well known for selling shoddy products and for doing damage to the environment on the worlds they control. Their treatment of workers is questionable, and their opposition to organized labor is legendary. Some Syndicate factory towns have even been accused of human rights abuses.`
 		log "Factions" "Pirates" `In poorer and more remote star systems, where the Navy seldom patrols, pirate attacks on merchant ships are frequent. Pirates are also known to attack large, unguarded convoys of freighters even in more populated areas. Most pirate fleets come from lawless worlds on the outskirts of human space.`
 		fail
+	
+
+event "You Cheater"
+	planet "Greenrock"
+		shipyard "All Ships"
+		outfitter "All Outfits"
+		"required reputation" -1000
 
 
-
-planet "Greenrock"
-	shipyard "All Ships"
-	outfitter "All Outfits"
-	"required reputation" -1000
